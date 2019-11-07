@@ -1,5 +1,5 @@
-let express = require('express')
-let request = require('request')
+let express = require('./node_modules/express')
+let request = require('./node_modules/request')
 let querystring = require('querystring')
 
 let app = express()
